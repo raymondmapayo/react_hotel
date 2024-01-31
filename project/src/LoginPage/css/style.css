@@ -1,0 +1,26 @@
+.gradient-custom-2 {
+
+
+    background-image: url("../images/Hotel.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+.btn-login {
+    background-color: #4CAF50;
+
+    color: #fff;
+
+    border: none;
+
+    padding: 10px 20px;
+
+    cursor: pointer;
+}
+
+.btn-login:hover {
+    background-color: #45a049;
+
+}
+
